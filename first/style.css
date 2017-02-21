@@ -1,0 +1,26 @@
+body {
+    background-color: grey;
+}
+header {
+    height: 20vh;
+    width: 100vw;
+    background-color: blue;
+    color: black;
+
+}
+main {
+    height: 70vh;
+    width: 60vw;
+    margin: auto; 
+    background-color: red;
+    color: black;
+}
+
+footer {
+    height: 10vh;
+    width: 60vw;
+    margin: auto;
+    background-color: yellow; 
+    color: black;
+
+}
