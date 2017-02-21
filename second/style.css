@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+.left {
+    background-color:red;
+    height: 100vh;
+    
+}
+.middle {
+    background-color:green;
+    height: 100vh;
+    
+}
+.right {
+    background-color:purple;
+    height: 80vh;
+}
+.lilright {
+    background-color:blue;
+    height: 20vh;
+
+}
+.box {
+    float: left;
+    width: 33%;
+}
