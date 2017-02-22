@@ -1,0 +1,19 @@
+.header {
+    background-color: pink;
+
+}
+.middle-top {
+     background-color:aqua;
+}
+.middle-bottom {
+    background-color:yellow;
+
+}
+.footer {
+    background-color:lavender;
+
+}
+.box {
+    height: 25vh;
+    width: 100%;
+}
